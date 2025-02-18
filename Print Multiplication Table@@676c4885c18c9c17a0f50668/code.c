@@ -1,5 +1,5 @@
 int main() {
-    int n, ;
+    int n;
 
     // Input the number n for which we need the multiplication table
   
