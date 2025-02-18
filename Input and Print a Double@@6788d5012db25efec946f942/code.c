@@ -1,9 +1,9 @@
-// Your code here...#include <stdio.h>
+#include <stdio.h>
 int main(){
-    double num;  // Declare a variable for the double value
-    scanf("%lf", &num);  // Use %lf to read a double value
+    double num;  
+    scanf("%lf", &num);  
     
-    printf("You entered: %lf\n", num);  // Print the double value
+    printf("You entered: %lf\n", num);  
 
     return 0;
 }
