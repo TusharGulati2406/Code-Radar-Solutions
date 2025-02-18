@@ -1,6 +1,6 @@
 int main (){
     float num;
-    printf("you entered:")
+    printf("you entered:");
     
     return 0;
 }
