@@ -6,8 +6,8 @@ int main() {
     scanf("%s %s", str1, str2);
     
     // Print the strings
-    printf("First string: %s\n", str1);  // Expected to print "c"
-    printf("Second string: %s\n", str2); // Expected to print "prog"
+    printf("You entered: %s,%s", str1,str2);  // Expected to print "c"
+   
 
     return 0;
 }
