@@ -9,9 +9,9 @@ int main() {
     
     // Check if the number is even or odd
     if (num % 2 == 0) {
-        printf( "even\n", num);  // If divisible by 2, it's even
+        printf( "Even\n", num);  // If divisible by 2, it's even
     } else {
-        printf( "odd\n", num);  // Otherwise, it's odd
+        printf( "Odd\n", num);  // Otherwise, it's odd
     }
 
     return 0;
