@@ -4,7 +4,7 @@ int main() {
 
     scanf("%c"&ch);
 
-    printf("ASCII value '%c' : %d\n",ch);
+    printf("ASCII value: %d",ch);
 
     return 0;
 
