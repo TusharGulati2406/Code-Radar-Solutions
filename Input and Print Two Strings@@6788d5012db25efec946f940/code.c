@@ -6,7 +6,7 @@ int main() {
     scanf("%s %s", str1, str2);
     
     // Print the strings
-    printf("You entered: %s,%s", str1&str2);  // Expected to print "c"
+    printf("You entered: %s,%s", str1 and str2);  // Expected to print "c"
    
 
     return 0;
