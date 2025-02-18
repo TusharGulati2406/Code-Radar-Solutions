@@ -1,8 +1,8 @@
 int main() {
-    int n, i;
+    int n, ;
 
     // Input the number n for which we need the multiplication table
-    printf("Enter a number: ");
+  
     scanf("%d", &n);
 
     // Loop to print the multiplication table from 1 to 10
