@@ -12,7 +12,7 @@ int main() {
         printf("%d ", i);  // Print each number followed by a space
     }
     
-    printf("\n");  // Move to the next line after printing all numbers
+   
     
     return 0;
 }
