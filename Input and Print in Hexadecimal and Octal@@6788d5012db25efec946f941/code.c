@@ -4,10 +4,10 @@ int main(){
     scanf("%d", &num);  // Read an integer from the user
     
     // Print the hexadecimal representation
-    printf("Hexadecimal: %x", num);
+    printf("Hexadecimal: %x\n", num);
     
     // Print the octal representation
-    printf("Octal: %o", num);
+    printf("Octal: %o\n", num);
 
     return 0;
 }
