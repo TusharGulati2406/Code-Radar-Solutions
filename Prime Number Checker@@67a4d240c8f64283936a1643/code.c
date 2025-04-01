@@ -13,16 +13,15 @@ int isPrime(int n) {
     return 1;
 }
 
-int main(void) {
+// Example usage
+int main() {
     int num;
     printf("Enter a positive integer: ");
     scanf("%d", &num);
 
-    if (isPrime(num))
-        printf("%d is a prime number.\n", num);
-    else
-        printf("%d is not a prime number.\n", num);
+    printf("%d\n", isPrime(num)); // Outputs 1 if prime, 0 if not
 
     return 0;
 }
+
 
