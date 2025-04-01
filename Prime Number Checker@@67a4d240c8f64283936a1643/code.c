@@ -13,7 +13,7 @@ int isPrime(int n) {
     return 1;
 }
 
-int main() {
+int main(void) {
     int num;
     printf("Enter a positive integer: ");
     scanf("%d", &num);
@@ -25,3 +25,4 @@ int main() {
 
     return 0;
 }
+
