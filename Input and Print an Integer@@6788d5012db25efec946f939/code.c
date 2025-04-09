@@ -4,11 +4,11 @@ int main() {
     int number;
 
     // Taking input
-    printf("Enter an integer: ");
+    printf(" ");
     scanf("%d", &number);
 
-    // Printing the input
-    printf("You entered: %d\n", number);
+ 
+    printf("%d\n", number);
 
     return 0;
 }
